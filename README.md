@@ -1,16 +1,22 @@
-# React + Vite
+# 🧪 React Unit Testing Practice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="1710" height="1107" alt="Screenshot 2026-04-13 at 10 30 40 PM" src="https://github.com/user-attachments/assets/f4278cb7-1ffb-40c6-bf0c-00932d2c5c3d" />
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project demonstrates basic **unit testing in React** using modern tools.
 
-## React Compiler
+## 🚀 Overview
+Built a simple React component and implemented tests to validate user interactions and UI behavior.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧠 Key Learnings
+- Testing components based on user actions  
+- Verifying UI updates and state changes  
+- Writing clean and maintainable tests  
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
+- React  
+- Vitest  
+- React Testing Library  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Purpose
+To understand and apply fundamental concepts of **unit testing in React** for real-world development and interview preparation.
